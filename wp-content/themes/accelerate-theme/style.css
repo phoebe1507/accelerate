@@ -702,8 +702,9 @@ a.button, a.button:link {
 		width: 20%;
 	}
 }
-@media (min-width: 400px) {
+@media (min-width: 300px) {
 	#navigation .pagination {
 		display: inline;
 	}
 }
+
